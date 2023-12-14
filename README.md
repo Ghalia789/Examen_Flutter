@@ -5,7 +5,7 @@ A new Flutter project created with FlutLab - https://flutlab.io
 ## Animation ressources 
 To create the json animation file used in this project I used:
 - png images from the website https://pngimg.com/
-- Lottielab as an environment (https://www.lottielab.com)
+- Lottielab as an environment https://www.lottielab.com
   
 ## Getting Started
 
